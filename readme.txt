@@ -2,7 +2,7 @@ qqqqqqqaaaaa
 6666666
 aaaaaaaaaaaaaaa
 
-<<<<<<< HEAD
+
 guoliwei  hahaha wo lai le woshi tangjinhuifgsdgsgdsgdsgsdfgdsfg
 
 
@@ -15,3 +15,9 @@ tangjinhui 2018 05 29 lai le
 
 wo you huilai le 
 
+
+public class Hello{
+   public static void main (String args){
+   	System.out.println("helloworld");
+   }
+}
