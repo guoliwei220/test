@@ -1,4 +1,4 @@
-qqqqqqqaaaaa
+﻿qqqqqqqaaaaa
 6666666
 aaaaaaaaaaaaaaa
 
@@ -18,6 +18,10 @@ wo you huilai le
 
 public class Hello{
    public static void main (String args){
+
    	System.out.println("helloworld");
+   }
+   public static String TomSay(){
+	System.out.println("你冲突好？");
    }
 }
