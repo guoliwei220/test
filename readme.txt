@@ -22,3 +22,6 @@ public class Hello{
    	System.out.println("helloworld");
    }
 }
+
+
+W分地方大幅度发送放大时发出
